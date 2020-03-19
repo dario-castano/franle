@@ -18,3 +18,8 @@ a:hover {
   color: orange;
   text-decoration: none;
 }
+
+div.jumbotron {
+  margin: 0;
+  border-radius: 0;
+}
